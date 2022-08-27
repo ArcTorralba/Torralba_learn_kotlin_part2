@@ -1,0 +1,11 @@
+fun main() {
+  // Write your code below
+  for (i in 1..6) {
+    for (j in 'A'..'F') {
+      // Write your code below
+      
+      print("$j$i ")
+    }
+    println()
+  }
+}
